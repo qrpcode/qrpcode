@@ -1,3 +1,6 @@
-![](https://github.com/qrpcode/qrpcode/blob/master/pptshow1.gif?raw=true)[![](https://github.com/qrpcode/qrpcode/blob/master/pptshow2.png?raw=true)]([https://github.com/qrpcode/pptshow](https://pptshow.cc/))[![](https://github.com/qrpcode/qrpcode/blob/master/pptshow3.gif?raw=true)](https://github.com/qrpcode/pptshow)
-### 欢迎拜访~  Welcome to visit~
-博客传送门 👉 [我的代码手账](https://blog.csdn.net/qq_20051535) 👈
+我的开源项目：
+[![](https://github.com/qrpcode/qrpcode/blob/master/pptshowbanner.png?raw=true)](https://github.com/qrpcode/pptshow)
+[![](https://github.com/qrpcode/qrpcode/blob/master/wordgobanner.png?raw=true)](https://github.com/qrpcode/wordgo)
+
+我的博客地址 和 Gitee地址：
+[<img src="https://github.com/qrpcode/qrpcode/blob/master/csdn.png?raw=true" style="zoom: 67%;" />](https://blog.csdn.net/qq_20051535?type=blog)[<img src="https://github.com/qrpcode/qrpcode/blob/master/gitee.png?raw=true" style="zoom:67%;" />](https://gitee.com/qiruipeng)
